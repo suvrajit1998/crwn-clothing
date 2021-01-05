@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://suvrajit1998.github.io/crow-clothing",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "firebase": "^7.5.0",
     "gh-pages": "^2.2.0",
     "node-sass": "^4.13.0",
